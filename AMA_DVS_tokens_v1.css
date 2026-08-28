@@ -1,0 +1,7 @@
+/* AMA Digital Visual System — Trama Fluida v1 */
+:root {
+  --ama-deep:#003C66; --ama-core:#005999; --ama-medium:#2271AA; --ama-signal:#0086E5;
+  --ama-mist:#DADFE3; --ama-ink:#141821; --ama-fog:#F5F7FA; --ama-white:#FFFFFF; --ama-logo-blue:#03319F;
+  --ama-space-1:4px; --ama-space-2:8px; --ama-space-3:16px; --ama-space-4:24px; --ama-space-5:32px;
+  --ama-space-6:48px; --ama-space-7:64px; --ama-space-8:80px; --ama-space-9:96px; --ama-space-10:128px;
+}

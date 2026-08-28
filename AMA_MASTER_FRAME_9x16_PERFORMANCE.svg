@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<path fill="#2271AA" opacity="0.10" d="M0 0 L1080 0 L1080 211 C907 268 777 192 648 115 C486 15 302 153 0 192 Z"/>
+<path fill="#2271AA" opacity="0.13" d="M0 1515 C150 1450 310 1470 465 1545 C625 1620 755 1640 885 1580 C960 1545 1018 1545 1080 1570 L1080 1740 C1010 1715 950 1725 880 1760 C745 1825 620 1810 455 1745 C300 1680 150 1670 0 1725 Z"/>
+<path fill="#005999" d="M0 1620 C150 1540 300 1560 455 1640 C610 1720 745 1740 875 1675 C950 1635 1010 1630 1080 1660 L1080 1920 L0 1920 Z"/>
+<path fill="#003C66" opacity="0.72" d="M0 1620 C150 1540 300 1560 455 1640 C610 1720 745 1740 875 1675 C950 1635 1010 1630 1080 1660 L1080 1920 L0 1920 Z" transform="translate(0,48)"/>
+<path fill="#F5F7FA" opacity="0.35" d="M625 210 C765 130 970 200 1035 420 C1088 605 1045 870 1000 1140 C970 1335 860 1485 700 1510 C535 1535 430 1400 430 1210 C430 980 470 755 500 550 C523 380 535 260 625 210 Z"/>
+<path fill="none" stroke="#0086E5" stroke-opacity="0.25" stroke-width="2" d="M625 210 C765 130 970 200 1035 420 C1088 605 1045 870 1000 1140 C970 1335 860 1485 700 1510 C535 1535 430 1400 430 1210 C430 980 470 755 500 550 C523 380 535 260 625 210 Z"/>
+<text x="81" y="537" fill="#03319F" font-family="Source Sans 3, Arial, sans-serif" font-weight="700" font-size="59">HEADLINE</text>
+<text x="81" y="691" fill="#141821" font-family="Source Sans 3, Arial, sans-serif" font-size="27">Subheadline / content placeholder</text>
+<text x="81" y="153" fill="#03319F" font-family="Source Sans 3, Arial, sans-serif" font-weight="600" font-size="19">AMA / CATEGORY</text>
+<text x="712" y="1094" fill="#2271AA" font-family="Source Sans 3, Arial, sans-serif" font-size="22">PHOTO MASK</text>
+</svg>

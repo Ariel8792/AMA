@@ -1,0 +1,74 @@
+{
+  "system_name": "AMA Digital Visual System",
+  "style_lock": "Concepto 02 — Trama Fluida",
+  "master_reference": "reference/AMA_MASTER_STYLE_REFERENCE_01.png",
+  "colors": {
+    "deep": "#003C66",
+    "core": "#005999",
+    "medium": "#2271AA",
+    "signal": "#0086E5",
+    "mist": "#DADFE3",
+    "ink": "#141821",
+    "white": "#FFFFFF",
+    "fog": "#F5F7FA",
+    "logo_blue": "#03319F"
+  },
+  "typography": {
+    "primary": "Source Sans 3",
+    "weights": {
+      "regular": 400,
+      "semibold": 600,
+      "bold": 700
+    },
+    "secondary": "UNLOCKED / do not use until separately approved"
+  },
+  "spacing_px": [
+    4,
+    8,
+    16,
+    24,
+    32,
+    48,
+    64,
+    80,
+    96,
+    128
+  ],
+  "rules": {
+    "ai_generation_scope": "Photography/scene generation only; layout identity must reuse locked assets.",
+    "logo": "Use official SVG only. Never regenerate, redraw, recolor or distort.",
+    "waves": "Use only approved AMA_WAVE and AMA_FLOW_RIBBON assets; do not redraw per piece.",
+    "masks": "Use only approved AMA_MASK assets or format-specific masks derived mathematically from them.",
+    "icons": "Minimal; only when information gain is material. No decorative icon rows.",
+    "lines": "Functional only. No repeated decorative separators.",
+    "headline_layout": "No universal left-headline/right-photo formula. Layout can vary using same locked assets.",
+    "palette": "No colors outside approved palette. AMA Logo Blue #03319F is logo-only."
+  },
+  "formats": {
+    "instagram_3x4": {
+      "width": 1080,
+      "height": 1440,
+      "margin": 72
+    },
+    "square_1x1": {
+      "width": 1080,
+      "height": 1080,
+      "margin": 64
+    },
+    "story_9x16": {
+      "width": 1080,
+      "height": 1920,
+      "margin": 72
+    },
+    "horizontal_16x9": {
+      "width": 1920,
+      "height": 1080,
+      "margin": 96
+    },
+    "email": {
+      "max_width": 600,
+      "desktop_padding": 32,
+      "mobile_padding": "20-24"
+    }
+  }
+}
